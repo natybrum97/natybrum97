@@ -17,10 +17,7 @@ const carreiraInovadora = `Transição de ${engQuimica} para o universo da ${pai
 
 // Habilidades em Destaque 💡
 const tecnologias = [
-```
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)];
-
-```javascript
+ "![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)",
 ]
 const metodosAgile = ["Scrum"];
 const principiosDevOps = true;
