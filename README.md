@@ -44,7 +44,7 @@ const conquistaLaChain = {
 };
 
 // Entre em Contato 📧
-const email = "nathaliabrum.97@hotmail.com";
+const email = "natybrum.97@gmail";
 const linkedin = "www.linkedin.com/in/nathália-brum-dev";
 
 // Bora trocar ideias ou discutir oportunidades? Entre em Contato!
