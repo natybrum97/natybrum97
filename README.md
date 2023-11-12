@@ -1,16 +1,42 @@
-### Hi there 👋
+```javascript
+// Nathalia Brum - Desenvolvedora de Transição 🚀
 
-<!--
-**natybrum97/natybrum97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+console.log("Olá, Devs e Curiosos! 👋 Sou Nathalia Brum, uma entusiasta da programação, e é um prazer tê-lo por aqui.");
 
-Here are some ideas to get you started:
+// Sobre Mim
+const engQuimica = "Engenharia Química";
+const paixao = "programação";
+const experienciaLideranca = "vice-presidente na SOLARMATERIAS";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+// De Engenharia Química à Código
+const carreiraInovadora = `Transição de ${engQuimica} para o universo da ${paixao}`;
+
+// Habilidades em Destaque 💡
+const tecnologias = ["HTML", "CSS", "JavaScript", "React", "Node.js", "Typescript", "Prisma"];
+const metodosAgile = ["Scrum"];
+const principiosDevOps = true;
+
+// Conquistas Profissionais 🏆
+const hackathons = { participacoes: 3, vitorias: 2, finalista: 3 };
+const projetos = ["Blockchain", "Drex", "e mais alguns projetos empolgantes"];
+
+// Sobre o Pessoal 😊
+const mineirice = "Mineira com orgulho 🌍";
+const amorPorDogs = "Amante de doguinhos 🐾";
+const cafeina = "Viciada em café ☕";
+const dorameira = "Apaixonada por doramas 🎬";
+
+// Explore meu Repositório 🧑‍💻
+const github = "https://github.com/natybrum97";
+
+// Entre em Contato 📧
+const email = "nathaliabrum.97@hotmail.com";
+
+// Pronto para Codar Juntos?
+console.log(`# Colabore nos meus projetos em ➡️ ${github}`);
+
+// Bora trocar ideias ou discutir oportunidades? Entre em Contato!
+console.log(`# Entre em contato pelo e-mail ➡️ ${email}`);
+
+// Vamos Codar Juntos! 🚀
+```
