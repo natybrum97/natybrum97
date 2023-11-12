@@ -1,7 +1,8 @@
 ```javascript
 // Nathalia Brum - Desenvolvedora Web Full Stack 🚀
 
-console.log("Olá, Devs e Curiosos! 👋 Sou a Nathalia Brum, mineira que veio para o RJ para estudar Engenharia Química e que nessa jornada descobriu uma nova paixão, optando pela transição de carreira para a área de tecnologia.");
+console.log("Olá, Devs e Curiosos! 👋 Sou a Nathalia Brum, mineira que veio para o RJ para estudar Engenharia
+Química e que nessa jornada descobriu uma nova paixão, optando pela transição de carreira para a área de tecnologia.");
 
 // Sobre Mim
 const mineirice = "Mineira com orgulho 🌍";
