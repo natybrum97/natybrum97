@@ -25,16 +25,16 @@ const hackathons = { participacoes: 3, vitorias: 2, finalista: 3 };
 
 const conquistaLoteriasCaixa = {
   descricao: "1º Lugar no Hackathon das Loterias Caixa na Campus Party Brasil jul de 2023",
-  experiencia: "Utilizei a tecnologia dos NFTs colecionáveis para revolucionar a experiência dos usuários com
-  as Loterias.",
-  competencias: ["Next.js", "Blockchain", "Web3.js", "Trabalho em grupo", "Desenvolvimento de inovações",
-  "Raciocínio lógico"],
+  experiencia: "Utilizei a tecnologia dos NFTs colecionáveis para revolucionar a experiência
+  dos usuários com as Loterias.",
+  competencias: ["Next.js", "Blockchain", "Web3.js", "Trabalho em grupo"],
 };
 
 const conquistaLaChain = {
   descricao: "1º Lugar do Desafio LaChain na DIGIFI Brasil, ago de 2023 - set de 2023",
-  experiencia: "Desenvolvemos a CredChain, uma plataforma de crédito, impulsionada pela tecnologia Hyperledger Besu.",
-  competencias: ["Blockchain", "Web3.js", "Trabalho em grupo", "Desenvolvimento de inovações", "Raciocínio lógico"],
+  experiencia: "Desenvolvemos uma plataforma de crédito, impulsionada pela tecnologia Hyperledger
+  Besu.",
+  competencias: ["Blockchain", "Web3.js", "Desenvolvimento de inovações","Raciocínio lógico"],
 };
 
 // Entre em Contato 📧
